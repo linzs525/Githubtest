@@ -1,0 +1,1 @@
+print('Successfully created Github repository')
